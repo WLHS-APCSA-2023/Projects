@@ -1,4 +1,4 @@
-# Geometry Fun - Project 1
+# Geometry Fun - Project 1 - Take Home Part of Exam 1
 
 The purpose of this assignment is to get some experience working with numeric data as well as demonstrating an understanding of good coding practices (writing clear, self-documenting code and following typical programming conventions).
 
