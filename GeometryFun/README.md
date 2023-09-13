@@ -57,4 +57,4 @@ Note: Before attempting this portion, verify the rest of the program is correct,
 
 ## Submitting
 
-Upload your .java file into Google Classroom along with your pseudocode
+Upload your .java file into Google Classroom
