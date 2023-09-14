@@ -51,7 +51,8 @@ As with all programs written in this course, maintainability is as important as 
 - Speficially Sections 2.1, 3.3, 4, and 5
 
 ## Extension - up to 5 pts extra credit
-In addition to all the above, prompt for a number of sides and calculate and display the perimeter and area of a regular polygon with that number of sides (of the entered length). Note: the perimeter is easy, it’s the area that’s a challenge. While you may use Python functions (such as trig functions or pow), you may not use any built-in Python functions for directly calculating the perimeter or area of a regular polygon.
+3pts - In addition to all the above, prompt for a number of sides and calculate and display the perimeter and area of a regular polygon with that number of sides (of the entered length). Note: the perimeter is easy, it’s the area that’s a challenge. While you may use Java math functions (such as trig functions or pow), you may not use any built-in Java functions for directly calculating the perimeter or area of a regular polygon.
+2pts - Find a way in Java to print all floating point numbers with 3 decimal places.
 
 Note: Before attempting this portion, verify the rest of the program is correct, well written, and follows the programming guidelines. Extra credit will not be awarded unless the rest of the program is 100% correct.
 
