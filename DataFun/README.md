@@ -27,7 +27,7 @@ The second part of the program will do the following:
 
 ## Sample Output
 
-Output should be well formatted and look similar to this:
+Output should be well formatted and look like to this:
 
 *What is your favorite integer? 42*
 
@@ -52,10 +52,10 @@ Output should be well formatted and look similar to this:
 
 
 ## Technical Details
-- Name your program DataFun.java
+- Name your program DataFun.java (you can use the file in this repo)
 - Include a block at the top of your code that has your name, date, and description of the what the program does.
-- You will be turning in pseudocode for this. It will be attached to the assignment as a separate Google Doc
 - You must use ifs, elses, and at least one switch case
+- Test your code thoroughly to account for different cases such as different locations in the alphabet, non letter characters, etc.
   
 As with all programs written in this course, maintainability is as important as functionality, so your code should be clear and easy to follow.
 
